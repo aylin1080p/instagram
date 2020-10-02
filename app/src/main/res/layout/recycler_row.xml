@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/recyclerview_row_useremail_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="9dp"
+        android:paddingTop="9dp"
+        android:paddingBottom="9dp"
+        android:text="user email tezt"
+        tools:layout_editor_absoluteX="43dp"
+        tools:layout_editor_absoluteY="8dp" />
+
+    <ImageView
+        android:id="@+id/recyclerview_row_imageview"
+        android:layout_width="305dp"
+        android:layout_height="259dp"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:foregroundGravity="center"
+        app:srcCompat="@drawable/ic_launcher_background"
+        tools:layout_editor_absoluteX="43dp"
+        tools:layout_editor_absoluteY="46dp" />
+
+    <TextView
+        android:id="@+id/recyclerview_row_comment_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="comment text"
+        android:paddingLeft="9dp"
+        android:paddingTop="9dp"
+        android:paddingBottom="9dp"
+        tools:layout_editor_absoluteX="43dp"
+        tools:layout_editor_absoluteY="304dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

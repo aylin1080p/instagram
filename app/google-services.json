@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "392518606288",
+    "firebase_url": "https://instagram-e73a6.firebaseio.com",
+    "project_id": "instagram-e73a6",
+    "storage_bucket": "instagram-e73a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392518606288:android:0fc651520e9d3c9c00add5",
+        "android_client_info": {
+          "package_name": "com.aylingunes.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392518606288-efbc0dvvic710hdsv4e1lgm2e68vogpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5VDxW40TH1xR-tqjlWxJP1JUykaU4K20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392518606288-efbc0dvvic710hdsv4e1lgm2e68vogpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
